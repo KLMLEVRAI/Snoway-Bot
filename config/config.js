@@ -1,5 +1,5 @@
 module.exports = {
-  token: "/etc/secrets/token.env.",
+  token: "/config/token.env.",
   botId: "1269688994728251422",
   buyers: ["658657618520440832"],
   prefix: "-",
