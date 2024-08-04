@@ -1,5 +1,5 @@
 module.exports = {
-  token: "token",
+  token: "GITHUB_TOKEN",
   botId: "1269688994728251422",
   buyers: ["658657618520440832"],
   prefix: "-",
