@@ -39,9 +39,9 @@ module.exports = class Snoway extends Client {
     this.utils = require('../Utils/index')
     this.config = require('../../../config/config');
 
-    this.support = 'https://discord.gg/snoway'
-    this.footer = {text: "Snoway V3 by Sown & Inside"}
-    this.dev = ["798973949189947459", "233657223190937601"],
+    this.support = 'https://discord.gg/'
+    this.footer = {text: "uhq"}
+    this.dev = ["1100389168435179613"],
     this.version = version;
     this.db = db
     this.api = this.functions.api
